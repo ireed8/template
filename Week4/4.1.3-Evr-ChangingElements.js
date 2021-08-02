@@ -14,3 +14,4 @@ document.querySelector("img").src=
 "https://i2.pickpik.com/photos/774/556/1024/odin-male-australian-shepherd-dog-thumb.jpg";
 
 // change the font color of the h1 element
+ListeningStateChangedEvent.
